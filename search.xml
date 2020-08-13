@@ -4,7 +4,7 @@
 <ShortName>Google Scholar</ShortName>
 <Description>Stand on the shoulders of giants</Description>
 <InputEncoding>UTF-8</InputEncoding>
-<Image height="16" width="16">https://github.com/chaim-chv/scholar/favicon.ico</Image>
+<Image height="16" width="16">https://chaim-chv.github.io/scholar/favicon.ico</Image>
 <Url type="text/html" method="GET" template="https://scholar.google.ch/scholar?hl=en&amp;q={searchTerms}"/>
 
 </OpenSearchDescription>
